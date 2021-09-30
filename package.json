@@ -1,5 +1,6 @@
 {
-  "name": "crud-demo",
+  "name": "crud-demo-api",
+  
   "version": "1.0.0",
   "description": "CRUD Demo API",
   "main": "server.js",
